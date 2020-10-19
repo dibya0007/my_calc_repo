@@ -1,4 +1,4 @@
-class Calc{
+class static Calc{
   public static int add(int a,int b){
     return a+b;
   }

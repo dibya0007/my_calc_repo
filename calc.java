@@ -1,5 +1,5 @@
 class  Calc{
-  public static int add(int a,int b){
+  public static void add(int a,int b){
    System.out.println (a+b);
   }
   public static void main(String []args){
